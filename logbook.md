@@ -32,3 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased] 12-11-2025
 ### Added
 - database(TimeTable function) setup complete
+
+## [Unreleased] 13-11-2025
+### Fixed
+- The issue of user loading too much information fixed, the website no longer lagging like previous version
