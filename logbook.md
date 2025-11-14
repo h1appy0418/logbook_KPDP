@@ -36,3 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased] 13-11-2025
 ### Fixed
 - The issue of user loading too much information fixed, the website no longer lagging like previous version
+
+## [Unreleased] 14-11-2025
+### Fixed
+- fix database unreach problem beacuse environmenmt variavble is not set properoly at vercel
