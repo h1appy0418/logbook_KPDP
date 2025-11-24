@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
-##[Unreleased] 27-10-2025
+## [Unreleased] 27-10-2025
 *Initiate our project website*
 
 - Complete the login function template
